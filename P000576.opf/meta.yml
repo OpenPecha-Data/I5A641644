@@ -1,15 +1,16 @@
-id: opecha:P000576
+id: P000576
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS20144
   title: ཡེ་ཤེས་བླ་མའི་སྙིང་ཐིག
-  volume:
+  author: ''
+  volumes:
     8448190c7dab427ab7c89e018c5dea8f:
       image_group_id: I8LS20146
       title: Volume 1 of ye shes bla ma'i snying thig
       volume_number: 1
       total_pages: 190
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཡེ་ཤེས་བླ་མའི་སྙིང་ཐིག
   author: ''
